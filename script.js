@@ -51,3 +51,13 @@ lightbox.addEventListener('click', () => {
     lightboxImg.src = '';
     lightboxCaption.textContent = '';
 });
+
+// Event listener to enlarge the image on click
+lightboxImg.addEventListener('click', (event) => {
+    event.stopPropagation();  // Prevent lightbox from closing
+    if (event.target.classList.contains('enlarge')) {
+        event.target.classList.remove('enlarge');
+    } else {
+        event.target.classList.add('enlarge');
+    }
+});
