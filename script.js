@@ -15,7 +15,7 @@ const images = [
     { src: 'images/14.jpg', hdSrc: 'images/14_hd.jpg', caption: 'Caption 14' },
     { src: 'images/15.jpg', hdSrc: 'images/15_hd.jpg', caption: 'Caption 15' },
     { src: 'images/16.jpg', hdSrc: 'images/16_hd.jpg', caption: 'Caption 16' },
-    { src: 'images/17.jpg', hdSrc: 'images17_hd.jpg', caption: 'Caption 17' },
+    { src: 'images/17.jpg', hdSrc: 'images/17_hd.jpg', caption: 'Caption 17' },
     { src: 'images/18.jpg', hdSrc: 'images/18_hd.jpg', caption: 'Caption 18' },
     { src: 'images/19.jpg', hdSrc: 'images/19_hd.jpg', caption: 'Caption 19' },
     { src: 'images/20.jpg', hdSrc: 'images/20_hd.jpg', caption: 'Caption 20' }
