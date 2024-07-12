@@ -1,6 +1,6 @@
 const images = [
     { src: 'images/1.jpg', hdSrc: 'images/1_hd.jpg', caption: 'Caption 1' },
-    { src: 'images/2.jpg', hdSrc: 'images/2_hd.jpg', caption: 'Caption 2' },
+    { src: 'images/2.jpeg', hdSrc: 'images/2_hd.jpeg', caption: 'Caption 2' },
     { src: 'images/3.jpg', hdSrc: 'images/3_hd.jpg', caption: 'Caption 3' },
     { src: 'images/4.jpg', hdSrc: 'images/4_hd.jpg', caption: 'Caption 4' },
     { src: 'images/5.jpg', hdSrc: 'images/5_hd.jpg', caption: 'Caption 5' },
@@ -10,12 +10,12 @@ const images = [
     { src: 'images/9.jpg', hdSrc: 'images/9_hd.jpg', caption: 'Caption 9' },
     { src: 'images/10.jpg', hdSrc: 'images/10_hd.jpg', caption: 'Caption 10' },
     { src: 'images/11.jpg', hdSrc: 'images/11_hd.jpg', caption: 'Caption 11' },
-    { src: 'images/i2.jpg', hdSrc: 'images/12_hd.jpg', caption: 'Caption 12' },
+    { src: 'images/12.jpg', hdSrc: 'images/12_hd.jpg', caption: 'Caption 12' },
     { src: 'images/13.jpg', hdSrc: 'images/13_hd.jpg', caption: 'Caption 13' },
     { src: 'images/14.jpg', hdSrc: 'images/14_hd.jpg', caption: 'Caption 14' },
     { src: 'images/15.jpg', hdSrc: 'images/15_hd.jpg', caption: 'Caption 15' },
-    { src: 'images/6.jpg', hdSrc: 'images/16_hd.jpg', caption: 'Caption 16' },
-    { src: 'images/17.jpg', hdSrc: 'images/17_hd.jpg', caption: 'Caption 17' },
+    { src: 'images/16.jpg', hdSrc: 'images/16_hd.jpg', caption: 'Caption 16' },
+    { src: 'images/17.jpg', hdSrc: 'images17_hd.jpg', caption: 'Caption 17' },
     { src: 'images/18.jpg', hdSrc: 'images/18_hd.jpg', caption: 'Caption 18' },
     { src: 'images/19.jpg', hdSrc: 'images/19_hd.jpg', caption: 'Caption 19' },
     { src: 'images/20.jpg', hdSrc: 'images/20_hd.jpg', caption: 'Caption 20' }
